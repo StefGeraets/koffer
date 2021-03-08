@@ -14,7 +14,7 @@ export const Nav = () => {
   return (
     <NavWrapper>
       <Link to="/">
-        <img src={data.logo.publicURL} width="100px" alt="Kofferbakmarkt Buggenum" />
+        <img src={data.logo.publicURL} alt="Kofferbakmarkt Buggenum" />
       </Link>
     </NavWrapper>
   )
