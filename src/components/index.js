@@ -1,4 +1,5 @@
 export * from "./Button"
+export * from "./Code"
 export * from "./Container"
 export * from "./Content"
 export * from "./ContentCard"
