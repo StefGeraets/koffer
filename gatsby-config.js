@@ -1,4 +1,12 @@
 module.exports = {
+  siteMetadata: {
+    title: "Kofferbakmarkt Buggenum",
+    description: "Informatie site over de kofferbakmarkt Buggenum",
+    url: "https://kofferbakmarktbuggenum.nl",
+    image: "/find.jpg",
+    twitterUsername: "@stefgeraets",
+    author: "Stef Geraets",
+  },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
